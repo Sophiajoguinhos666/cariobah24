@@ -10,5 +10,5 @@
 
 body {
     background-color: var(--cor-de-fundo);
-    color: #BDB76B;
+    color: var(--cor-da-escrita);
 }
