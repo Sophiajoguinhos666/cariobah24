@@ -1,7 +1,7 @@
 :root {
     --cor-de-fundo: #9370DB;
     --cor-da-escrita: #FFE4E1;
-    --cor-fundp-imagem:#6A5ACD ;
+    --cor-fundp-imagem: #6A5ACD;
 }
 
 * {
@@ -17,6 +17,6 @@ body {
         display: flex;
         background-color: var(--cor-fundp-imagem);
         align-content: center;
-        justify-content: space-evenly;
+        justify-content: space-between;
     }
 }
