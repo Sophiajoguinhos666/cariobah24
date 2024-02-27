@@ -11,4 +11,5 @@
 body {
     background-color: var(--cor-de-fundo);
     color: var(--cor-da-escrita);
-.acai{display:flex ;}
+    
+.estrela{display:flex ;}
