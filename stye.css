@@ -13,7 +13,7 @@ body {
     background-color: var(--cor-de-fundo);
     color: var(--cor-da-escrita);
 
-    .estrela {
+    .açaí {
         display: flex;
         background-color: var(--cor-fundp-imagem);
         align-content: center;
