@@ -12,4 +12,4 @@ body {
     background-color: var(--cor-de-fundo);
     color: var(--cor-da-escrita);
 }
-.açaí
+.açaí {display: flex;}
