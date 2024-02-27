@@ -1,6 +1,7 @@
 :root {
-    --cor-de-fundo: #9370DB	;
-    --cor-da-escrita: #FFE4E1	;
+    --cor-de-fundo: #9370DB;
+    --cor-da-escrita: #FFE4E1;
+    --cor-fundp-imagem: #D8BFD8;
 }
 
 * {
@@ -12,4 +13,7 @@ body {
     background-color: var(--cor-de-fundo);
     color: var(--cor-da-escrita);
 
-.estrela{display:flex ;}
+    .estrela {
+        display: flex;
+        background-color: var(--cor-fundp-imagem);
+    }
