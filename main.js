@@ -8,7 +8,7 @@ while(nomeusuario == ""){
 
 if(nomeusuario == null){
     anterior.textContent = usuário;);
-} else{nterior.textContent = nomeusuario;
+} else{
+    anterior.textContent = nomeusuario;
 }
 
-anterior.textContent = nomeusuario;
