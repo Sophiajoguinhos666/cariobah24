@@ -2,7 +2,7 @@ alert('Ola mundo');
 let nomeusuario = "";
 let anterior = document.querySelector('#texto');
 
-while(nomeusuario == ""){
+while(nomeusuario == "" || nomeusuario == null){
     nomeusuario = prompt('Qual o seu nome?');
 }
 
