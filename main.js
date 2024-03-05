@@ -7,7 +7,7 @@ while(nomeusuario == ""){
 }
 
 if(nomeusuario == null){
-    anterior = document.querySelector('#texto');
+    anterior.textContent = usuário;);
 } else{nterior.textContent = nomeusuario;
 
 }
