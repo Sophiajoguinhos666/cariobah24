@@ -1,3 +1,5 @@
 alert('Ola mundo');
 let nomeusuario = prompt('Qualo o seu nome?');
-let texto = document.querySelector('#texto');
+let anterior = document.querySelector('#texto');
+
+anterior.textContent = nomeusuario;
