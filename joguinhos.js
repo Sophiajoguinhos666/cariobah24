@@ -1,5 +1,5 @@
 let numeroSecreto = 69;
-
+console.log(numeroSecreto) ;
 let chute = '';
 
 while(chute == ''){
