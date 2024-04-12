@@ -13,3 +13,4 @@ for (let x  =0; x<botoes.length; x++){
 
      // botoes[x].classList.remove('ativo');
     }
+}
