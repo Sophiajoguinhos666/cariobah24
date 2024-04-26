@@ -19,7 +19,7 @@ const contadores = document.querySelectorAll('.contador');
 let tempoAtual = new Date ();
 let tempoObjetivo1 = new Date('2024-04-29T00:00:00');
 let TempoFinal = tempoObjetivo1 - tempoAtual;
-let segundos = TempoFinal/1000;
+let segundos = Math.floor (TempoFinal/1000);
 
 
 
